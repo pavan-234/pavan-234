@@ -2,21 +2,27 @@
 
 🎓 I'm a 3rd-year B.Tech Computer Science student at Gayatri Vidya Parishad College of Engineering, with a CGPA of 8.70. I'm an enthusiastic and self-driven developer passionate about building impactful software and continuously learning new technologies.
 
+---
+
 ## 🚀 About Me
 
-- 💻 Passionate about software development, open-source contribution, and real-world problem-solving.
-- 🧠 Strong foundation in **Data Structures**, **Algorithms**, and **Object-Oriented Programming (OOP)**.
-- 🌐 Skilled in full-stack development using **MERN stack**.
+- 💻 Passionate about software development, open-source contribution, and real-world problem-solving.  
+- 🧠 Strong foundation in **Data Structures**, **Algorithms**, and **Object-Oriented Programming (OOP)**.  
+- 🌐 Skilled in full-stack development using the **MERN stack**.  
 - 🎯 Currently working on:
-  - 🧑‍🎓 **Alumni Connect** – A role-based networking platform for students and alumni.
-  - 😂 **MemeForge** – A full-stack meme generator and sharing platform.
-- 🏆 Actively participating in coding competitions like **LeetCode**, **CodeChef**, and **Codeforces**.
+  - 🧑‍🎓 **Alumni Connect** – A role-based networking platform for students and alumni.  
+  - 😂 **MemeForge** – A full-stack meme generator and sharing platform.  
+- 🏆 Actively participating in coding competitions like **LeetCode**, **CodeChef**, and **Codeforces**.  
+
+---
 
 ## 📫 Let's Connect
 
-- 🔗 LinkedIn: [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/pavan-kalyan-varanasi-210573267/))  
-- 💌 Email: varanasipavankalyan07@gmail.com  
-- 🌐 Portfolio: [Portfolio Website](pavankalyanvaranasi.me)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pavan-kalyan-varanasi-210573267/)
+- 💌 Email: varanasipavankalyan07@gmail.com
+- 🌐 [Portfolio Website](https://pavankalyanvaranasi.me)
+
+---
 
 ## 💻 Technical Skills
 
@@ -52,7 +58,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+---
 
-#### 📈 GitHub Stats:
+## 📊 GitHub Stats
+
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavan-234&show_icons=true&theme=radical)
-
