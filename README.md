@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋 I'm Pavan Kalyan
 
-<!--
-**pavan-234/pavan-234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a passionate software developer and 3rd-year B.Tech CSE student.  
+🎯 Interested in MERN Stack, and Problem Solving.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: Alumni Connect Project
+- 🌱 Learning: Competitive Programming
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Languages & Tools:
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+#### 📈 GitHub Stats:
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpavankalyan77&show_icons=true&theme=radical)
+
