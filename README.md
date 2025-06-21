@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Varanasi Pavan Kalyan!!
 
-🎓 I'm a 3rd-year B.Tech Computer Science student at Gayatri Vidya Parishad College of Engineering, with a CGPA of 8.70. I'm an enthusiastic and self-driven developer passionate about building impactful software and continuously learning new technologies.
+🎓 I'm a 4rd-year B.Tech Computer Science student at Gayatri Vidya Parishad College of Engineering, with a CGPA of 8.62. I'm an enthusiastic and self-driven developer passionate about building impactful software and continuously learning new technologies.
 
 ---
 
