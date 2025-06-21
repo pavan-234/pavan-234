@@ -10,8 +10,7 @@
 - 🧠 Strong foundation in **Data Structures**, **Algorithms**, and **Object-Oriented Programming (OOP)**.  
 - 🌐 Skilled in full-stack development using the **MERN stack**.  
 - 🎯 Currently working on:
-  - 🧑‍🎓 **Alumni Connect** – A role-based networking platform for students and alumni.  
-  - 😂 **MemeForge** – A full-stack meme generator and sharing platform.  
+  - **NoteSync AI** – An intelligent platform that enables seamless note creation, syncing, and smart AI-powered organization across devices.
 - 🏆 Actively participating in coding competitions like **LeetCode**, **CodeChef**, and **Codeforces**.  
 
 ---
